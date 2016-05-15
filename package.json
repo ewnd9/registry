@@ -1,7 +1,7 @@
 {
   "name": "@ewnd9/registry",
   "description": "Simple registry for interconnected objects",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel -d dist src",
