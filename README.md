@@ -13,7 +13,7 @@ $ npm install --save @ewnd9/registry
 ## Usage
 
 ```js
-const Registry = require('registry');
+const Registry = require('@ewnd9/registry');
 const registry = new Registry('services');
 
 const A = registry.define('A', {
