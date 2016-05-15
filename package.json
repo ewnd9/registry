@@ -1,6 +1,6 @@
 {
-  "name": "registry",
-  "description": "",
+  "name": "@ewnd9/registry",
+  "description": "Simple registry for interconnected objects",
   "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {
