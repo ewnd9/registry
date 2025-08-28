@@ -6,9 +6,7 @@ Simple registry for interconnected objects
 
 ## Install
 
-```
-$ npm install --save @ewnd9/registry
-```
+The `@ewnd9/registry` package was manually unpublished from npm on 2025-08-28. The name has been released for potential future use.
 
 ## Usage
 
